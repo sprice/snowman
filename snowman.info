@@ -10,4 +10,5 @@ dependencies[] = file
 dependencies[] = menu
 dependencies[] = path
 dependencies[] = taxonomy
+dependencies[] = toolbar
 files[] = snowman.profile
