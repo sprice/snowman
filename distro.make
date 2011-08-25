@@ -7,7 +7,7 @@ core = 8.x
 projects[drupal][type] = core
 projects[drupal][version] = 8.x-dev
 
-; Patches
+; Patches from http://drupal.org/node/1242448
 
 ; Per-bundle node listing pages, blocks, feeds.
 ; http://drupal.org/node/1210366
@@ -47,3 +47,8 @@ projects[drupal][patch][820054] = http://drupal.org/files/issues/820054-profiles
 
 ; Allow install profiles to be uninstalled
 ; http://drupal.org/node/1242956
+
+; Snowman profile
+projects[snowman][type] = profile
+projects[snowman][download][type] = git
+projects[snowman][download][url] = git://github.com/sprice/snowman.git
