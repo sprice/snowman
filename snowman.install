@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements hook_install().
+ */
+function snowman_install() {
+  theme_enable(array('seven'));
+  variable_set('theme_default', 'seven');
+}

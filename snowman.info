@@ -1,0 +1,13 @@
+name = Snowman
+description = Something useful out of the box.
+version = VERSION
+core = 8.x
+dependencies[] = book
+dependencies[] = contact
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+files[] = snowman.profile
