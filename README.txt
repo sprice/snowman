@@ -5,4 +5,4 @@ project.
 
 ## Build
 
-`drush make --working-copy "https://github.com/sprice/snowman/blob/master/distro.make" snowman`
+    drush make --working-copy "https://github.com/sprice/snowman/blob/master/distro.make" snowman
