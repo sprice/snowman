@@ -18,7 +18,7 @@ projects[drupal][patch][1210366] = http://drupal.org/files/issues/per-bundle-lis
 
 ; Add flexible display options for book pages
 ; http://drupal.org/node/1050664
-; projects[drupal][patch][1050664] = http://drupal.org/files/issues/book_child_display.patch
+projects[drupal][patch][1050664] = http://drupal.org/files/issues/book_display_options-1050664-19.patch
 
 ; Content types should declare a plural form of their name
 ; http://drupal.org/node/23298
