@@ -39,7 +39,7 @@ projects[drupal][patch][1050664] = http://drupal.org/files/issues/book_display_o
 
 ; Make system directories configurable to allow tests in profiles/[name]/modules to be run.
 ; http://drupal.org/node/911354
-; projects[drupal][patch][911354] = http://drupal.org/files/issues/911354-57-install-profile-tests.patch
+projects[drupal][patch][911354] = http://drupal.org/files/issues/911354-60-install-profile-tests.patch
 
 ; dependencies[] in install profiles are not dependencies; they can be disabled
 ; http://drupal.org/node/820054
